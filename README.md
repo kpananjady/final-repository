@@ -10,4 +10,4 @@ I will scrape all the school days lost to pollution by the end of the day. We re
 Update:
 This is rough because the webpage that hosted AQI data for the government was down all weekend, and just got up and running Monday morning Indian time (which is Sunday evening here).
 
-For this version, we're just sticking with school days and pollution. You can find a link to the webpage here.
+For this version, we're just sticking with school days and pollution. You can find a link to the webpage here.https://kpananjady.github.io/my-portfolio2/final-rough.html
