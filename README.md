@@ -8,6 +8,6 @@ What we have in here is a csv scraped off this site: https://aqicn.org/city/delh
 I will scrape all the school days lost to pollution by the end of the day. We requested National Family Health Survey data, which came through, but pandas can't seem to open it — it seems to be too big? Would love your help on this — github says the file is too big for this repository.   
 
 Update:
-This is rough because the webpage that hosted AQI data for the government was down all weekend, and just got up and running Monday morning Indian time (which is Sunday here).
+This is rough because the webpage that hosted AQI data for the government was down all weekend, and just got up and running Monday morning Indian time (which is Sunday evening here).
 
 For this version, we're just sticking with school days and pollution. You can find a link to the webpage here.
